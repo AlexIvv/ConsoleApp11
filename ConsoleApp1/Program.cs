@@ -39,6 +39,7 @@ namespace ConsoleApp1
     }
     static int IndexOfMemberFibonachi(int FibonachiMember){
       int a = 0;
+      int b = 1;
       return 0;
     }
   }
